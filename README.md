@@ -1,4 +1,4 @@
-### Hi hello 👋 
+### Hi, I'm Kathy
 
 🏔 Denver, CO
 
