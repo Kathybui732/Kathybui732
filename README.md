@@ -1,10 +1,14 @@
 ### Hi, I'm Kathy
 
-🏔 Denver, CO   
-💻 Software Engineer  
+🙋🏻‍♀️ Developer with a background in healthcare and business. I use strategic creativity to build intuitive websites and applications. I am motivated to solve problems that can improve lives.  
+
+
+🏔 <space>Denver, CO   
+💻  Software Engineer  
 🎓 Turing School of Software & Design // University of Colorado Denver   
-🏂 Snowboarder, 🐇 bunny lady, 👾 video game enthusiate  
-🙋🏻‍♀️ Developer with a background in healthcare and business. I use strategic creativity to build intuitive websites and applications. I am motivated to solve problems that can improve lives.
+🏂 Snowboarder  
+  🐇 Bunny mom  
+  👾 Video game enthusiate  
 
 <p align="center">
   <img src="https://img.shields.io/badge/ruby%20-critical.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
